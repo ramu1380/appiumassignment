@@ -1,0 +1,27 @@
+{
+"android"{
+"appPackage":"com.ebay.mobile",
+"appActivity":"com.ebay.mobile.activities.MainActivity",
+"automationName":"",
+"platformName":"",
+"platformVersion":"",
+"deviceName":""
+
+}
+"ios"
+{
+"platformVersion":"13.1.3",
+"bundleId":"",
+"udid":"",
+"platformName":"iOS",
+"deviceName":"sixt iPhone",
+"wdaEventLoopIdeleDelay":3,
+"noReset":true,
+"newCommandTimeOut":"",
+"clearSystemFiles":true,
+"automationName":"XCUITest"
+
+}
+
+
+}
